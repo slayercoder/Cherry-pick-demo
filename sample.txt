@@ -1,2 +1,4 @@
 This is a sample commit for git cherry-pick.
 This line is for another commit.
+This is a wonderful commit for demonstrating cherry-pick
+
